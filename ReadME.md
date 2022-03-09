@@ -2,6 +2,4 @@
 
 Here are some changes I made for a PR example
 
-## This line is the first change.
-
-## This is the second change
+# These are some new changes
